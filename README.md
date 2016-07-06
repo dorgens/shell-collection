@@ -5,3 +5,4 @@
 4. wp-tmp.php mini shell
 5. mini-post-all.php anyfing post
 6. ini.php shell include
+7. moein.php Full shell  password:Dhanush //========+++Dhanush+++========+++Coded By Arjun+++===//

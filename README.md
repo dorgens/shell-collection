@@ -4,3 +4,4 @@
 3. /cgi-bin/index.php mini shell
 4. wp-tmp.php mini shell
 5. mini-post-all.php anyfing post
+6. ini.php shell include

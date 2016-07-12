@@ -6,3 +6,4 @@
 5. mini-post-all.php anyfing post
 6. ini.php shell include
 7. moein.php Full shell  password:Dhanush //========+++Dhanush+++========+++Coded By Arjun+++===//
+8. so.php mini shell

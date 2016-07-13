@@ -7,3 +7,4 @@
 6. ini.php shell include
 7. moein.php Full shell  password:Dhanush //========+++Dhanush+++========+++Coded By Arjun+++===//
 8. so.php mini shell
+9. wp-content/index.php  mini shell
